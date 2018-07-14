@@ -1,0 +1,12 @@
+h:\documents\visual studio 2015\Projects\lab8_BinaryTree\lab8_BinaryTree\bin\Debug\lab8_BinaryTree.exe.config
+h:\documents\visual studio 2015\Projects\lab8_BinaryTree\lab8_BinaryTree\bin\Debug\lab8_BinaryTree.exe
+h:\documents\visual studio 2015\Projects\lab8_BinaryTree\lab8_BinaryTree\bin\Debug\lab8_BinaryTree.pdb
+h:\documents\visual studio 2015\Projects\lab8_BinaryTree\lab8_BinaryTree\obj\Debug\lab8_BinaryTree.csprojResolveAssemblyReference.cache
+h:\documents\visual studio 2015\Projects\lab8_BinaryTree\lab8_BinaryTree\obj\Debug\lab8_BinaryTree.exe
+h:\documents\visual studio 2015\Projects\lab8_BinaryTree\lab8_BinaryTree\obj\Debug\lab8_BinaryTree.pdb
+C:\Users\Eric\Desktop\AdvProgrammingYear2\lab8_BinaryTree\lab8_BinaryTree\bin\Debug\lab8_BinaryTree.exe.config
+C:\Users\Eric\Desktop\AdvProgrammingYear2\lab8_BinaryTree\lab8_BinaryTree\obj\Debug\lab8_BinaryTree.exe
+C:\Users\Eric\Desktop\AdvProgrammingYear2\lab8_BinaryTree\lab8_BinaryTree\obj\Debug\lab8_BinaryTree.pdb
+C:\Users\Eric\Desktop\AdvProgrammingYear2\lab8_BinaryTree\lab8_BinaryTree\obj\Debug\lab8_BinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\AdvProgrammingYear2\lab8_BinaryTree\lab8_BinaryTree\bin\Debug\lab8_BinaryTree.exe
+C:\Users\Eric\Desktop\AdvProgrammingYear2\lab8_BinaryTree\lab8_BinaryTree\bin\Debug\lab8_BinaryTree.pdb

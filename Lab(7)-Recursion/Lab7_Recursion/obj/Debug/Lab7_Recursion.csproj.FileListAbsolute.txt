@@ -1,0 +1,12 @@
+c:\users\nadim\documents\visual studio 2015\Projects\Lab7_Recursion\Lab7_Recursion\bin\Debug\Lab7_Recursion.exe.config
+c:\users\nadim\documents\visual studio 2015\Projects\Lab7_Recursion\Lab7_Recursion\bin\Debug\Lab7_Recursion.exe
+c:\users\nadim\documents\visual studio 2015\Projects\Lab7_Recursion\Lab7_Recursion\bin\Debug\Lab7_Recursion.pdb
+c:\users\nadim\documents\visual studio 2015\Projects\Lab7_Recursion\Lab7_Recursion\obj\Debug\Lab7_Recursion.csprojResolveAssemblyReference.cache
+c:\users\nadim\documents\visual studio 2015\Projects\Lab7_Recursion\Lab7_Recursion\obj\Debug\Lab7_Recursion.exe
+c:\users\nadim\documents\visual studio 2015\Projects\Lab7_Recursion\Lab7_Recursion\obj\Debug\Lab7_Recursion.pdb
+C:\Users\Eric\Desktop\AdvProgrammingYear2\Lab7_Recursion\Lab7_Recursion\bin\Debug\Lab7_Recursion.exe.config
+C:\Users\Eric\Desktop\AdvProgrammingYear2\Lab7_Recursion\Lab7_Recursion\obj\Debug\Lab7_Recursion.exe
+C:\Users\Eric\Desktop\AdvProgrammingYear2\Lab7_Recursion\Lab7_Recursion\obj\Debug\Lab7_Recursion.pdb
+C:\Users\Eric\Desktop\AdvProgrammingYear2\Lab7_Recursion\Lab7_Recursion\bin\Debug\Lab7_Recursion.exe
+C:\Users\Eric\Desktop\AdvProgrammingYear2\Lab7_Recursion\Lab7_Recursion\bin\Debug\Lab7_Recursion.pdb
+C:\Users\Eric\Desktop\AdvProgrammingYear2\Lab7_Recursion\Lab7_Recursion\obj\Debug\Lab7_Recursion.csprojResolveAssemblyReference.cache

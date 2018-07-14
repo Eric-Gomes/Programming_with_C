@@ -1,0 +1,12 @@
+c:\users\nadim\documents\visual studio 2015\Projects\Lab2_Library\Lab2_Library\bin\Debug\Lab2_Library.exe.config
+c:\users\nadim\documents\visual studio 2015\Projects\Lab2_Library\Lab2_Library\bin\Debug\Lab2_Library.exe
+c:\users\nadim\documents\visual studio 2015\Projects\Lab2_Library\Lab2_Library\bin\Debug\Lab2_Library.pdb
+c:\users\nadim\documents\visual studio 2015\Projects\Lab2_Library\Lab2_Library\obj\Debug\Lab2_Library.csprojResolveAssemblyReference.cache
+c:\users\nadim\documents\visual studio 2015\Projects\Lab2_Library\Lab2_Library\obj\Debug\Lab2_Library.exe
+c:\users\nadim\documents\visual studio 2015\Projects\Lab2_Library\Lab2_Library\obj\Debug\Lab2_Library.pdb
+C:\Users\Eric\Desktop\AdvProgrammingYear2\Lab2_Library\Lab2_Library\bin\Debug\Lab2_Library.exe.config
+C:\Users\Eric\Desktop\AdvProgrammingYear2\Lab2_Library\Lab2_Library\obj\Debug\Lab2_Library.exe
+C:\Users\Eric\Desktop\AdvProgrammingYear2\Lab2_Library\Lab2_Library\obj\Debug\Lab2_Library.pdb
+C:\Users\Eric\Desktop\AdvProgrammingYear2\Lab2_Library\Lab2_Library\bin\Debug\Lab2_Library.exe
+C:\Users\Eric\Desktop\AdvProgrammingYear2\Lab2_Library\Lab2_Library\bin\Debug\Lab2_Library.pdb
+C:\Users\Eric\Desktop\AdvProgrammingYear2\Lab2_Library\Lab2_Library\obj\Debug\Lab2_Library.csprojResolveAssemblyReference.cache

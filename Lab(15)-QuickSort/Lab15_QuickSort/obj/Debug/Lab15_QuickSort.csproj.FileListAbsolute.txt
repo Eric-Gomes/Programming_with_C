@@ -1,0 +1,9 @@
+c:\users\nadim\documents\visual studio 2015\Projects\Lab15_QuickSort\Lab15_QuickSort\bin\Debug\Lab15_QuickSort.exe.config
+c:\users\nadim\documents\visual studio 2015\Projects\Lab15_QuickSort\Lab15_QuickSort\bin\Debug\Lab15_QuickSort.exe
+c:\users\nadim\documents\visual studio 2015\Projects\Lab15_QuickSort\Lab15_QuickSort\bin\Debug\Lab15_QuickSort.pdb
+c:\users\nadim\documents\visual studio 2015\Projects\Lab15_QuickSort\Lab15_QuickSort\obj\Debug\Lab15_QuickSort.csprojResolveAssemblyReference.cache
+c:\users\nadim\documents\visual studio 2015\Projects\Lab15_QuickSort\Lab15_QuickSort\obj\Debug\Lab15_QuickSort.exe
+c:\users\nadim\documents\visual studio 2015\Projects\Lab15_QuickSort\Lab15_QuickSort\obj\Debug\Lab15_QuickSort.pdb
+C:\Users\Eric\Desktop\Lab15_QuickSort\Lab15_QuickSort\bin\Debug\Lab15_QuickSort.exe.config
+C:\Users\Eric\Desktop\Lab15_QuickSort\Lab15_QuickSort\obj\Debug\Lab15_QuickSort.exe
+C:\Users\Eric\Desktop\Lab15_QuickSort\Lab15_QuickSort\obj\Debug\Lab15_QuickSort.pdb

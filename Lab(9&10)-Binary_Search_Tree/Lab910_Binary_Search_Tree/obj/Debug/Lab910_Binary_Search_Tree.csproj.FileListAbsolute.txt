@@ -1,0 +1,9 @@
+c:\users\nadim\documents\visual studio 2015\Projects\Lab910_Binary_Search_Tree\Lab910_Binary_Search_Tree\bin\Debug\Lab910_Binary_Search_Tree.exe.config
+c:\users\nadim\documents\visual studio 2015\Projects\Lab910_Binary_Search_Tree\Lab910_Binary_Search_Tree\obj\Debug\Lab910_Binary_Search_Tree.csprojResolveAssemblyReference.cache
+c:\users\nadim\documents\visual studio 2015\Projects\Lab910_Binary_Search_Tree\Lab910_Binary_Search_Tree\bin\Debug\Lab910_Binary_Search_Tree.exe
+c:\users\nadim\documents\visual studio 2015\Projects\Lab910_Binary_Search_Tree\Lab910_Binary_Search_Tree\bin\Debug\Lab910_Binary_Search_Tree.pdb
+c:\users\nadim\documents\visual studio 2015\Projects\Lab910_Binary_Search_Tree\Lab910_Binary_Search_Tree\obj\Debug\Lab910_Binary_Search_Tree.exe
+c:\users\nadim\documents\visual studio 2015\Projects\Lab910_Binary_Search_Tree\Lab910_Binary_Search_Tree\obj\Debug\Lab910_Binary_Search_Tree.pdb
+C:\Users\Eric\Desktop\AdvProgrammingYear2\Lab910_Binary_Search_Tree\Lab910_Binary_Search_Tree\bin\Debug\Lab910_Binary_Search_Tree.exe.config
+C:\Users\Eric\Desktop\AdvProgrammingYear2\Lab910_Binary_Search_Tree\Lab910_Binary_Search_Tree\obj\Debug\Lab910_Binary_Search_Tree.exe
+C:\Users\Eric\Desktop\AdvProgrammingYear2\Lab910_Binary_Search_Tree\Lab910_Binary_Search_Tree\obj\Debug\Lab910_Binary_Search_Tree.pdb
